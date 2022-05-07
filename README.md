@@ -3,7 +3,7 @@ This is a collection of Python scripts that utilize the Twitter API through Twee
 
 
 
-* userlist_follow.py - Follow a list of users by name and description keywords
+* userlist_follow.py - Follow a list of users by name and matching description keywords
 
 * post_comparison.py - List [BCI Companies](https://bciwiki.org/index.php/Category:Companies) not linked to from current twitter posts
 
