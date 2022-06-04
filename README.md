@@ -12,3 +12,5 @@ This is a collection of Python scripts that utilize the Twitter API through Twee
 * inactive_friends.py - List inactive users currently followed by specified account
 
 * twitter_recursive_following.py - List or follow 2nd level followers (users who follow followers of a specific user)
+
+* follower_wordlist.py - Create list of repeated words from follower descriptions
